@@ -1,0 +1,16 @@
+{
+  "author": "https://github.com/angular-ui/bootstrap/graphs/contributors",
+  "name": "@bradchesney79/ui-bootstrap-tpls",
+  "version": "1.3.3",
+  "homepage": "https://github.com/angular-ui/bootstrap/",
+  "description": "Angular UI Bootstrap TPLS  dragged into the future against everyone's wishes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angular-ui/bootstrap/"
+  },
+  "license": "MIT"
+}
